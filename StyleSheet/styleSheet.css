@@ -50,5 +50,6 @@ body{
     justify-content: center;
     align-items: center;
     gap: 0.2rem;
+    margin-top: 8px;
   }
   
